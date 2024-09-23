@@ -1,0 +1,97 @@
+.social-data-source {
+  max-width: fit-content;
+  width: 319px;
+}
+
+.social-data-source span {
+  color: #fff;
+}
+
+.social-select {
+  color: #fff;
+  border: none !important;
+  width: 288px;
+}
+
+.social-select .social-select__control {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.social-select .social-select__input-container {
+  height: 23px !important;
+}
+
+.social-select__single-value,
+.social-select__dropdown-indicator {
+  color: #fff !important;
+}
+
+.social-select__indicator-separator {
+  display: none;
+}
+
+.social-select .social-select__menu {
+  margin-top: -9px !important;
+  background-color: #404040;
+  width: 288px;
+  position: absolute;
+  left: -19px;
+  border-radius: 0px;
+}
+
+.social-select__menu>div {
+  padding: 0;
+}
+
+.social-select__menu .social-select__option.social-select__option--is-focused {
+  background-color: #404040 !important;
+}
+
+.social-select__menu .social-select__option.social-select__option--is-selected {
+  background-color: #404040 !important;
+}
+
+.social-select__control--menu-is-open {
+  background-color: #404040 !important;
+  border-color: #404040 !important;
+}
+
+/* social-select__value-container social-select__value-container--has-value */
+.social-select__value-container .social-select__value-container--has-value {
+  text-align: center;
+  padding-top: 2px;
+}
+
+/* .social-select__control--menu-is-open:hover {
+  border: none !important;
+  box-shadow: none !important;
+} */
+.social-select__input {
+  /* display: none !important; */
+  border: none !important;
+  /* min-width: 200px; */
+  --tw-ring-color: none !important;
+}
+
+.rank-arrow {
+  display: flex;
+  align-items: center;
+}
+
+.up-rank-color {
+  color: #00C25A;
+}
+
+.down-rank-color {
+  color: #C20033;
+}
+
+.equal-rank-color {
+  color: #7B7B7B;
+}
+
+.border-box {
+  background-color: #181818;
+}

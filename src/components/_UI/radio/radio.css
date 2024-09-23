@@ -1,0 +1,18 @@
+.radio-input {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.radio-input input {
+	accent-color: #000000;
+	opacity: 0.7;
+	width: 14px;
+	height: 14px;
+}
+
+.radio-input span {
+	font-size: 14px;
+	color: #BEBEBE;
+	font-weight: 400;
+}

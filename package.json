@@ -1,0 +1,75 @@
+{
+  "name": "react-site",
+  "version": "0.1.3",
+  "private": true,
+  "dependencies": {
+    "@dnd-kit/core": "^6.0.3",
+    "@dnd-kit/sortable": "^7.0.0",
+    "ag-charts-community": "^8.0.3",
+    "ag-charts-react": "^8.0.3",
+    "axios": "^1.6.8",
+    "cal-heatmap": "^4.2.3",
+    "cntl": "^1.0.0",
+    "d3": "^7.8.4",
+    "d3-drag": "^3.0.0",
+    "d3-simple-slider": "^1.10.4",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.4.5",
+    "firebase": "^9.21.0",
+    "html-react-parser": "^3.0.16",
+    "lightweight-charts": "^4.0.1",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.1",
+    "number-shortener": "^1.0.1",
+    "numeral": "^2.0.6",
+    "papaparse": "^5.4.1",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-router-dom": "^6.11.0",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.7.2",
+    "react-spinners": "^0.13.8",
+    "regression": "^2.0.1",
+    "web-vitals": "^3.3.1"
+  },
+  "resolutions": {
+    "strip-ansi": "6.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "postbuild": "cp -a build/. firebase/public/",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "cd firebase/ && npx firebase use --add dark-safeguard-369020 && npx firebase deploy --only hosting:finance-site",
+    "clear:merged": "git branch --merged | egrep -v '(^\\*|main|dev)' | xargs git branch -d"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}

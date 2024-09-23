@@ -1,0 +1,315 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-Black.woff2') format('woff2'), url('../public/fonts/Arial/Arial-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-BoldMT.woff2') format('woff2'), url('../public/fonts/Arial/Arial-BoldMT.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-Mdm.woff2') format('woff2'), url('../public/fonts/Arial/Arial-Mdm.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/ArialMT.woff2') format('woff2'), url('../public/fonts/Arial/ArialMT.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-Lgt.woff2') format('woff2'), url('../public/fonts/Arial/Arial-Lgt.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-BlackItalic.woff2') format('woff2'),
+    url('../public/fonts/Arial/Arial-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-BoldItalicMT.woff2') format('woff2'),
+    url('../public/fonts/Arial/Arial-BoldItalicMT.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-MdmItl.woff2') format('woff2'), url('../public/fonts/Arial/Arial-MdmItl.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-ItalicMT.woff2') format('woff2'), url('../public/fonts/Arial/Arial-ItalicMT.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../public/fonts/Arial/Arial-LgtItl.woff2') format('woff2'), url('../public/fonts/Arial/Arial-LgtItl.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url('../public/fonts/Roboto/Roboto-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+html {
+  background-color: #000;
+}
+
+@layer base {
+  #root {
+    @apply antialiased font-roboto;
+  }
+}
+
+@layer components {
+  .custom-select option {
+    @apply bg-black;
+  }
+
+  .logo-fill-1 {
+    fill: url(#_Linear1);
+    fill-rule: nonzero;
+  }
+
+  .logo-fill-2 {
+    fill: url(#_Linear2);
+    fill-rule: nonzero;
+  }
+
+  .logo-stop-0 {
+    stop-color: rgb(140, 33, 233);
+    stop-opacity: 1;
+  }
+
+  .logo-stop-1 {
+    stop-color: rgb(210, 4, 75);
+    stop-opacity: 1;
+  }
+
+  .logo-stop-2 {
+    stop-color: rgb(0, 10, 255);
+    stop-opacity: 1;
+  }
+
+  .logo-stop-3 {
+    stop-color: rgb(226, 20, 16);
+    stop-opacity: 1;
+  }
+
+  nav a.circle::after {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    margin-bottom: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+  nav a.circle.red::after {
+    background-color: #ff0000;
+  }
+
+  nav a.circle.gray-dot::after {
+    background-color: #4d4d4d;
+  }
+
+  nav a.circle.purple-dot::after {
+    background-color: #ad0fad;
+  }
+
+  .flex.flex-col.rounded-md.w-\[325px\].h-\[603px\].overflow-hidden {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  span.text-white.leading-5,
+  span.name,
+  span.date {
+    font-size: 16px;
+  }
+
+  h6.text-center.text-white {
+    font-size: 17px;
+  }
+
+  .commodity-chart {
+    margin-left: 1px;
+  }
+
+  .text-base {
+    width: 300px;
+  }
+
+  .mt-\[9px\].mr-\[-12px\].h-\[320px\].w-\[309px\] {
+    overflow: auto;
+    margin-top: 8px;
+  }
+
+  .cursor-pointer.bg-neutral-700.text-white {
+    font-size: 17px;
+  }
+
+  .widget-one .text-lg.h-7.currency {
+    margin-bottom: -4px;
+  }
+
+  .flex.justify-center.buttons {
+    margin-top: 2px;
+  }
+
+  .currency,
+  .buttons {
+    margin-top: 5px;
+  }
+
+  .currency span {
+    font-size: 17px;
+  }
+
+  .mb-\[3px\]+svg {
+    margin-left: 3px;
+  }
+
+  .buttons-below {
+    margin-top: 8px;
+  }
+
+  .chart-filter .item-filter-btn {
+    cursor: pointer;
+  }
+
+  .item-symbol .remove-item svg:hover {
+    fill: #fff;
+  }
+
+  .item-symbol span {
+    font-size: 17px;
+    line-height: 17px;
+  }
+
+  svg.add-button:hover path {
+    fill: gray;
+  }
+
+  svg.add-button:active path {
+    fill: white;
+  }
+
+  /* svg.add-button.favourite path {
+    fill: #8C4CF4;
+  } */
+  /* svg.add-button.favourite:hover {
+    pointer-events: none;
+  } */
+  .search-result:hover {
+    background-color: #888;
+  }
+
+  .search-results {
+    border: none;
+    background-color: rgba(155, 152, 152, 0.4);
+  }
+
+  .search-results-list {
+    margin-top: 16px;
+    max-height: 240px;
+    overflow-y: auto;
+  }
+
+  /* truncate company description */
+  .truncate-multi-line {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 20;
+    -webkit-box-orient: vertical;
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+    background-color: rgb(18, 18, 18, 0.6);
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgb(18, 18, 18, 0.6);
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  .search-ctrl > .sg-list {
+    position: fixed;
+    z-index: 12;
+    top: 120px;
+    background-color: #888;
+    width: 250px;
+    height: auto;
+  }
+
+  .search-ctrl > .sg-list > ul > li {
+    cursor: pointer;
+    color: #fff;
+    padding: 10px 10px;
+  }
+
+  .search-ctrl > .sg-list > ul > li:hover {
+    background-color: #4d4d4d;
+  }
+}

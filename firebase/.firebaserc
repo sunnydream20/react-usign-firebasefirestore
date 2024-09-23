@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "dark-safeguard-369020"
+  },
+  "targets": {
+    "dark-safeguard-369020": {
+      "hosting": {
+        "finance-site": [
+          "finance-site"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

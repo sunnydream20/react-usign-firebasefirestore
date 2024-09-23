@@ -1,0 +1,79 @@
+.form-control-select {
+  background-image: url(../../../assets/img/svg/arrow-down.svg);
+  background-position: right 0.5rem center;
+  background-repeat: no-repeat;
+  background-size: 8px 6px;
+}
+
+.react-select__control {
+  width: auto !important;
+  min-width: 142px !important;
+  height: 7px !important;
+  background-color: #404040 !important;
+  min-height: 27px !important;
+  border-width: 0px !important;
+}
+
+.react-select__control .react-select__value-container {
+  padding: 0px 7px !important;
+}
+
+.react-select__control .react-select__single-value {
+  font-size: 17px !important;
+  font-family: 'Arial';
+  line-height: 27px !important;
+  color: #fff !important;
+}
+
+.react-select__control .react-select__input-container {
+  height: 27px !important;
+  margin: 0 !important;
+}
+
+.react-select__control .react-select__input {
+  display: none;
+}
+
+.react-select__indicators {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  justify-content: end;
+}
+
+.react-select__indicators .react-select__indicator-separator {
+  width: 0 !important;
+}
+
+.react-select__indicators .react-select__indicator {
+  padding: 3px !important;
+  width: 100%;
+  justify-content: end;
+}
+
+.react-select .react-select__menu {
+  margin-top: 4px !important;
+  background-color: #404040;
+}
+
+.react-select .react-select__menu .react-select__menu-list {
+  padding: 0px 0px;
+  border-radius: 4px !important;
+}
+
+.react-select .react-select__menu .react-select__option {
+  padding: 0px 12px;
+  color: #fff !important;
+  font-size: 17px !important;
+  line-height: 27px !important;
+  font-family: 'Arial';
+}
+
+.react-select .react-select__menu .react-select__option.react-select__option--is-focused {
+  background-color: #404040 !important;
+}
+
+.react-select .react-select__menu .react-select__option.react-select__option--is-selected {
+  background-color: #9f9f9f !important;
+}

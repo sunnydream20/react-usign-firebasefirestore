@@ -1,0 +1,24 @@
+.icon-container {
+  width: 28px;
+  height: 28px;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* height: 100vh; */
+  /* border: 1px solid blue; */
+}
+
+.rotating-icon {
+  animation: rotate 1s linear infinite;
+  fill: grey;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
