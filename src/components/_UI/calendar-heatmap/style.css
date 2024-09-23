@@ -1,0 +1,79 @@
+.ch-subdomain-container .ch-subdomain-bg {
+  fill: #404040;
+}
+
+.ch-subdomain-container .ch-subdomain-bg:hover {
+  /* stroke: #F139EA;
+  stroke-width: 2px; */
+  stroke: none !important;
+  outline-color: #F139EA;
+  outline-style: solid;
+  outline-width: 2px;
+  outline-offset: -2px;
+
+}
+
+.ch-subdomain-container rect.highlight {
+  /* stroke: #F139EA;
+  stroke-width: 2px; */
+  stroke: none !important;
+  outline-color: #F139EA;
+  outline-style: solid;
+  outline-width: 2px;
+  outline-offset: -2px;
+}
+
+.ch-subdomain-container rect.highlight.hover_cursor {
+  /* stroke: #F139EA;
+  stroke-width: 2px; */
+  stroke: none !important;
+  outline-color: #F139EA;
+  outline-style: solid;
+  outline-width: 2px;
+  outline-offset: -2px;
+}
+
+.ch-subdomain-container rect.highlight-now {
+  stroke: none !important;
+  outline-color: red;
+  outline-style: solid;
+  outline-width: 2px;
+  outline-offset: -2px;
+
+}
+
+.ch-subdomain-container .ch-subdomain-text {
+  font-size: 17px;
+  font-family: 'Arial';
+  fill: #fff
+}
+
+.ch-subdomain-container text.highlight {
+  fill: #fff;
+}
+
+.ch-subdomain-container .graph-label {
+  font-size: 24px;
+  font-family: 'Arial';
+  fill: #fff;
+}
+
+.ch-subdomain-container .q1 {
+  fill: #824AF0;
+}
+
+.ch-subdomain-container .q2 {
+  fill: #7334f1;
+}
+
+.ch-subdomain-container .q3 {
+  fill: #5e14f1;
+}
+
+.ch-subdomain-container .q4 {
+  fill: #4306bd;
+}
+
+.ch-subdomain-container .q5 {
+  fill: #290474;
+}

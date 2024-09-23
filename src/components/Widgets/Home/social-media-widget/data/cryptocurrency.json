@@ -1,0 +1,907 @@
+{
+  "count": 447,
+  "pages": 5,
+  "current_page": 1,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "BTC.X",
+      "name": "Bitcoin",
+      "mentions": "529",
+      "upvotes": "1053",
+      "rank_24h_ago": "1",
+      "mentions_24h_ago": "782"
+    },
+    {
+      "rank": 2,
+      "ticker": "ETH.X",
+      "name": "Ethereum",
+      "mentions": "383",
+      "upvotes": "1084",
+      "rank_24h_ago": "2",
+      "mentions_24h_ago": "528"
+    },
+    {
+      "rank": 3,
+      "ticker": "DOGE.X",
+      "name": "Dogecoin",
+      "mentions": "69",
+      "upvotes": "442",
+      "rank_24h_ago": "6",
+      "mentions_24h_ago": "55"
+    },
+    {
+      "rank": 4,
+      "ticker": "FTX.X",
+      "name": "FintruX Network",
+      "mentions": "64",
+      "upvotes": "404",
+      "rank_24h_ago": "3",
+      "mentions_24h_ago": "83"
+    },
+    {
+      "rank": 5,
+      "ticker": "LRC.X",
+      "name": "Loopring",
+      "mentions": "60",
+      "upvotes": "358",
+      "rank_24h_ago": "12",
+      "mentions_24h_ago": "22"
+    },
+    {
+      "rank": 6,
+      "ticker": "SOL.X",
+      "name": "Solana",
+      "mentions": "48",
+      "upvotes": "328",
+      "rank_24h_ago": "19",
+      "mentions_24h_ago": "18"
+    },
+    {
+      "rank": 7,
+      "ticker": "ADA.X",
+      "name": "Cardano",
+      "mentions": "44",
+      "upvotes": "78",
+      "rank_24h_ago": "4",
+      "mentions_24h_ago": "89"
+    },
+    {
+      "rank": 8,
+      "ticker": "XRP.X",
+      "name": "XRP",
+      "mentions": "40",
+      "upvotes": "71",
+      "rank_24h_ago": "7",
+      "mentions_24h_ago": "46"
+    },
+    {
+      "rank": 9,
+      "ticker": "LTC.X",
+      "name": "Litecoin",
+      "mentions": "40",
+      "upvotes": "311",
+      "rank_24h_ago": "5",
+      "mentions_24h_ago": "54"
+    },
+    {
+      "rank": 10,
+      "ticker": "DOT.X",
+      "name": "Polkadot",
+      "mentions": "38",
+      "upvotes": "93",
+      "rank_24h_ago": "8",
+      "mentions_24h_ago": "46"
+    },
+    {
+      "rank": 11,
+      "ticker": "MATIC.X",
+      "name": "Polygon",
+      "mentions": "37",
+      "upvotes": "75",
+      "rank_24h_ago": "10",
+      "mentions_24h_ago": "36"
+    },
+    {
+      "rank": 12,
+      "ticker": "DEX.X",
+      "name": "DEX",
+      "mentions": "35",
+      "upvotes": "73",
+      "rank_24h_ago": "11",
+      "mentions_24h_ago": "25"
+    },
+    {
+      "rank": 13,
+      "ticker": "CRO.X",
+      "name": "Crypto.com Coin",
+      "mentions": "35",
+      "upvotes": "115",
+      "rank_24h_ago": "22",
+      "mentions_24h_ago": "13"
+    },
+    {
+      "rank": 14,
+      "ticker": "ONE.X",
+      "name": "Harmony",
+      "mentions": "27",
+      "upvotes": "122",
+      "rank_24h_ago": "39",
+      "mentions_24h_ago": "8"
+    },
+    {
+      "rank": 15,
+      "ticker": "ARB.X",
+      "name": "ARbit",
+      "mentions": "26",
+      "upvotes": "38",
+      "rank_24h_ago": "9",
+      "mentions_24h_ago": "33"
+    },
+    {
+      "rank": 16,
+      "ticker": "GPT.X",
+      "name": "Grace Period Token",
+      "mentions": "25",
+      "upvotes": "58",
+      "rank_24h_ago": "18",
+      "mentions_24h_ago": "29"
+    },
+    {
+      "rank": 17,
+      "ticker": "MOONS.X",
+      "name": "MoonTools",
+      "mentions": "24",
+      "upvotes": "92",
+      "rank_24h_ago": "17",
+      "mentions_24h_ago": "14"
+    },
+    {
+      "rank": 18,
+      "ticker": "OG.X",
+      "name": "OG Fan Token",
+      "mentions": "24",
+      "upvotes": "61",
+      "rank_24h_ago": "26",
+      "mentions_24h_ago": "10"
+    },
+    {
+      "rank": 19,
+      "ticker": "ALGO.X",
+      "name": "Algorand",
+      "mentions": "24",
+      "upvotes": "121",
+      "rank_24h_ago": "21",
+      "mentions_24h_ago": "13"
+    },
+    {
+      "rank": 20,
+      "ticker": "DAO.X",
+      "name": "DAO Maker",
+      "mentions": "21",
+      "upvotes": "64",
+      "rank_24h_ago": "14",
+      "mentions_24h_ago": "21"
+    },
+    {
+      "rank": 21,
+      "ticker": "LUNA.X",
+      "name": "Terra",
+      "mentions": "20",
+      "upvotes": "80",
+      "rank_24h_ago": "20",
+      "mentions_24h_ago": "10"
+    },
+    {
+      "rank": 22,
+      "ticker": "USDT.X",
+      "name": "Tether",
+      "mentions": "19",
+      "upvotes": "146",
+      "rank_24h_ago": "33",
+      "mentions_24h_ago": "11"
+    },
+    {
+      "rank": 23,
+      "ticker": "MEXC.X",
+      "name": "MEXC Token",
+      "mentions": "19",
+      "upvotes": "79",
+      "rank_24h_ago": "31",
+      "mentions_24h_ago": "8"
+    },
+    {
+      "rank": 24,
+      "ticker": "USDC.X",
+      "name": "USD Coin",
+      "mentions": "18",
+      "upvotes": "71",
+      "rank_24h_ago": "13",
+      "mentions_24h_ago": "29"
+    },
+    {
+      "rank": 25,
+      "ticker": "ATOM.X",
+      "name": "Cosmos",
+      "mentions": "18",
+      "upvotes": "42",
+      "rank_24h_ago": "24",
+      "mentions_24h_ago": "12"
+    },
+    {
+      "rank": 26,
+      "ticker": "GME.X",
+      "name": "GameStop tokenized stock FTX",
+      "mentions": "17",
+      "upvotes": "1488",
+      "rank_24h_ago": "59",
+      "mentions_24h_ago": "4"
+    },
+    {
+      "rank": 27,
+      "ticker": "ID.X",
+      "name": "Everest",
+      "mentions": "15",
+      "upvotes": "27",
+      "rank_24h_ago": "32",
+      "mentions_24h_ago": "7"
+    },
+    {
+      "rank": 28,
+      "ticker": "APY.X",
+      "name": "APY.Finance",
+      "mentions": "15",
+      "upvotes": "37",
+      "rank_24h_ago": "48",
+      "mentions_24h_ago": "5"
+    },
+    {
+      "rank": 29,
+      "ticker": "LINK.X",
+      "name": "Chainlink",
+      "mentions": "11",
+      "upvotes": "13",
+      "rank_24h_ago": "239",
+      "mentions_24h_ago": "18"
+    },
+    {
+      "rank": 30,
+      "ticker": "VET.X",
+      "name": "VeChain",
+      "mentions": "11",
+      "upvotes": "75",
+      "rank_24h_ago": "42",
+      "mentions_24h_ago": "5"
+    },
+    {
+      "rank": 31,
+      "ticker": "IT.X",
+      "name": "IDCM Token",
+      "mentions": "11",
+      "upvotes": "124",
+      "rank_24h_ago": "49",
+      "mentions_24h_ago": "6"
+    },
+    {
+      "rank": 32,
+      "ticker": "ACH.X",
+      "name": "Alchemy Pay",
+      "mentions": "11",
+      "upvotes": "13",
+      "rank_24h_ago": "30",
+      "mentions_24h_ago": "14"
+    },
+    {
+      "rank": 33,
+      "ticker": "SHIB.X",
+      "name": "SHIBA INU",
+      "mentions": "10",
+      "upvotes": "30",
+      "rank_24h_ago": "43",
+      "mentions_24h_ago": "9"
+    },
+    {
+      "rank": 34,
+      "ticker": "APR.X",
+      "name": "APR Coin",
+      "mentions": "9",
+      "upvotes": "15",
+      "rank_24h_ago": "34",
+      "mentions_24h_ago": "9"
+    },
+    {
+      "rank": 35,
+      "ticker": "XMR.X",
+      "name": "Monero",
+      "mentions": "9",
+      "upvotes": "14",
+      "rank_24h_ago": "37",
+      "mentions_24h_ago": "6"
+    },
+    {
+      "rank": 36,
+      "ticker": "YOU.X",
+      "name": "YOU COIN",
+      "mentions": "8",
+      "upvotes": "47",
+      "rank_24h_ago": "25",
+      "mentions_24h_ago": "11"
+    },
+    {
+      "rank": 37,
+      "ticker": "CDC.X",
+      "name": "Commerce Data Connection",
+      "mentions": "8",
+      "upvotes": "24",
+      "rank_24h_ago": "35",
+      "mentions_24h_ago": "5"
+    },
+    {
+      "rank": 38,
+      "ticker": "UST.X",
+      "name": "TerraUSD",
+      "mentions": "8",
+      "upvotes": "22",
+      "rank_24h_ago": "77",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 39,
+      "ticker": "NEXO.X",
+      "name": "Nexo",
+      "mentions": "7",
+      "upvotes": "31",
+      "rank_24h_ago": "167",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 40,
+      "ticker": "AVAX.X",
+      "name": "Avalanche",
+      "mentions": "7",
+      "upvotes": "38",
+      "rank_24h_ago": "377",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 41,
+      "ticker": "XLM.X",
+      "name": "Stellar",
+      "mentions": "7",
+      "upvotes": "14",
+      "rank_24h_ago": "23",
+      "mentions_24h_ago": "12"
+    },
+    {
+      "rank": 42,
+      "ticker": "BNB.X",
+      "name": "Binance Coin",
+      "mentions": "6",
+      "upvotes": "7",
+      "rank_24h_ago": "15",
+      "mentions_24h_ago": "15"
+    },
+    {
+      "rank": 43,
+      "ticker": "SNL.X",
+      "name": "Sport and Leisure",
+      "mentions": "6",
+      "upvotes": "20",
+      "rank_24h_ago": "310",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 44,
+      "ticker": "PDF.X",
+      "name": "Port of DeFi Network",
+      "mentions": "5",
+      "upvotes": "12",
+      "rank_24h_ago": "40",
+      "mentions_24h_ago": "8"
+    },
+    {
+      "rank": 45,
+      "ticker": "AT.X",
+      "name": "Artfinity",
+      "mentions": "4",
+      "upvotes": "8",
+      "rank_24h_ago": "120",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 46,
+      "ticker": "ANY.X",
+      "name": "Anyswap",
+      "mentions": "4",
+      "upvotes": "8",
+      "rank_24h_ago": "70",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 47,
+      "ticker": "BUT.X",
+      "name": "BitUP Token",
+      "mentions": "4",
+      "upvotes": "9",
+      "rank_24h_ago": "29",
+      "mentions_24h_ago": "10"
+    },
+    {
+      "rank": 48,
+      "ticker": "NEAR.X",
+      "name": "NEAR Protocol",
+      "mentions": "4",
+      "upvotes": "7",
+      "rank_24h_ago": "97",
+      "mentions_24h_ago": "2"
+    },
+    {
+      "rank": 49,
+      "ticker": "BBC.X",
+      "name": "TraDove B2BCoin",
+      "mentions": "4",
+      "upvotes": "7",
+      "rank_24h_ago": "393",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 50,
+      "ticker": "OMI.X",
+      "name": "ECOMI",
+      "mentions": "3",
+      "upvotes": "17",
+      "rank_24h_ago": "0",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 51,
+      "ticker": "BAT.X",
+      "name": "Basic Attention Token",
+      "mentions": "3",
+      "upvotes": "10",
+      "rank_24h_ago": "36",
+      "mentions_24h_ago": "6"
+    },
+    {
+      "rank": 52,
+      "ticker": "TOS.X",
+      "name": "ThingsOperatingSystem",
+      "mentions": "3",
+      "upvotes": "7",
+      "rank_24h_ago": "51",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 53,
+      "ticker": "LOT.X",
+      "name": "Lukki Operating Token",
+      "mentions": "3",
+      "upvotes": "8",
+      "rank_24h_ago": "47",
+      "mentions_24h_ago": "7"
+    },
+    {
+      "rank": 54,
+      "ticker": "CKB.X",
+      "name": "Nervos Network",
+      "mentions": "3",
+      "upvotes": "4",
+      "rank_24h_ago": "41",
+      "mentions_24h_ago": "4"
+    },
+    {
+      "rank": 55,
+      "ticker": "PRO.X",
+      "name": "Propy",
+      "mentions": "3",
+      "upvotes": "5",
+      "rank_24h_ago": "28",
+      "mentions_24h_ago": "9"
+    },
+    {
+      "rank": 56,
+      "ticker": "NOW.X",
+      "name": "NOW Token",
+      "mentions": "3",
+      "upvotes": "5",
+      "rank_24h_ago": "74",
+      "mentions_24h_ago": "5"
+    },
+    {
+      "rank": 57,
+      "ticker": "BIS.X",
+      "name": "Bismuth",
+      "mentions": "3",
+      "upvotes": "4",
+      "rank_24h_ago": "382",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 58,
+      "ticker": "AMC.X",
+      "name": "AMC Entertainment Holdings tokenized stock FTX",
+      "mentions": "3",
+      "upvotes": "9",
+      "rank_24h_ago": "391",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 59,
+      "ticker": "GOLD.X",
+      "name": "Golden Goose",
+      "mentions": "3",
+      "upvotes": "10",
+      "rank_24h_ago": "411",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 60,
+      "ticker": "CEL.X",
+      "name": "Celsius",
+      "mentions": "3",
+      "upvotes": "5",
+      "rank_24h_ago": "78",
+      "mentions_24h_ago": "3"
+    },
+    {
+      "rank": 61,
+      "ticker": "MVP.X",
+      "name": "Merculet",
+      "mentions": "2",
+      "upvotes": "4",
+      "rank_24h_ago": "81",
+      "mentions_24h_ago": "3"
+    },
+    {
+      "rank": 62,
+      "ticker": "AKA.X",
+      "name": "Akroma",
+      "mentions": "2",
+      "upvotes": "87",
+      "rank_24h_ago": "128",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 63,
+      "ticker": "ZKS.X",
+      "name": "ZKSwap",
+      "mentions": "2",
+      "upvotes": "15",
+      "rank_24h_ago": "133",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 64,
+      "ticker": "TIME.X",
+      "name": "Chrono.tech",
+      "mentions": "2",
+      "upvotes": "6",
+      "rank_24h_ago": "138",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 65,
+      "ticker": "DAI.X",
+      "name": "Dai",
+      "mentions": "2",
+      "upvotes": "3",
+      "rank_24h_ago": "141",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 66,
+      "ticker": "INJ.X",
+      "name": "Injective Protocol",
+      "mentions": "2",
+      "upvotes": "5",
+      "rank_24h_ago": "148",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 67,
+      "ticker": "UP.X",
+      "name": "UpToken",
+      "mentions": "2",
+      "upvotes": "4",
+      "rank_24h_ago": "84",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 68,
+      "ticker": "SHA.X",
+      "name": "Safe Haven",
+      "mentions": "2",
+      "upvotes": "3",
+      "rank_24h_ago": "46",
+      "mentions_24h_ago": "4"
+    },
+    {
+      "rank": 69,
+      "ticker": "LN.X",
+      "name": "LINK",
+      "mentions": "2",
+      "upvotes": "3",
+      "rank_24h_ago": "202",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 70,
+      "ticker": "JASMY.X",
+      "name": "Jasmy",
+      "mentions": "2",
+      "upvotes": "3",
+      "rank_24h_ago": "213",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 71,
+      "ticker": "HBAR.X",
+      "name": "Hedera Hashgraph",
+      "mentions": "2",
+      "upvotes": "6",
+      "rank_24h_ago": "66",
+      "mentions_24h_ago": "3"
+    },
+    {
+      "rank": 72,
+      "ticker": "SVB.X",
+      "name": "Sendvibe",
+      "mentions": "2",
+      "upvotes": "9",
+      "rank_24h_ago": "68",
+      "mentions_24h_ago": "5"
+    },
+    {
+      "rank": 73,
+      "ticker": "FX.X",
+      "name": "Function X",
+      "mentions": "2",
+      "upvotes": "5",
+      "rank_24h_ago": "252",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 74,
+      "ticker": "AC.X",
+      "name": "Affil Coin",
+      "mentions": "2",
+      "upvotes": "9",
+      "rank_24h_ago": "52",
+      "mentions_24h_ago": "3"
+    },
+    {
+      "rank": 75,
+      "ticker": "ATM.X",
+      "name": "Atletico De Madrid Fan Token",
+      "mentions": "2",
+      "upvotes": "7",
+      "rank_24h_ago": "16",
+      "mentions_24h_ago": "18"
+    },
+    {
+      "rank": 76,
+      "ticker": "GM.X",
+      "name": "GM Holding",
+      "mentions": "2",
+      "upvotes": "4",
+      "rank_24h_ago": "91",
+      "mentions_24h_ago": "2"
+    },
+    {
+      "rank": 77,
+      "ticker": "NPC.X",
+      "name": "NPCoin",
+      "mentions": "2",
+      "upvotes": "6",
+      "rank_24h_ago": "279",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 78,
+      "ticker": "SNB.X",
+      "name": "SynchroBitcoin",
+      "mentions": "2",
+      "upvotes": "4",
+      "rank_24h_ago": "307",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 79,
+      "ticker": "GRT.X",
+      "name": "Global Rental Token",
+      "mentions": "2",
+      "upvotes": "4",
+      "rank_24h_ago": "320",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 80,
+      "ticker": "AMP.X",
+      "name": "Amp",
+      "mentions": "2",
+      "upvotes": "4",
+      "rank_24h_ago": "72",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 81,
+      "ticker": "ASA.X",
+      "name": "Asura Coin",
+      "mentions": "2",
+      "upvotes": "8",
+      "rank_24h_ago": "346",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 82,
+      "ticker": "MAX.X",
+      "name": "Maxcoin",
+      "mentions": "2",
+      "upvotes": "4",
+      "rank_24h_ago": "349",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 83,
+      "ticker": "ON.X",
+      "name": "OFIN Token",
+      "mentions": "2",
+      "upvotes": "40",
+      "rank_24h_ago": "387",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 84,
+      "ticker": "ENJ.X",
+      "name": "Enjin Coin",
+      "mentions": "2",
+      "upvotes": "5",
+      "rank_24h_ago": "388",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 85,
+      "ticker": "FTM.X",
+      "name": "Fantom",
+      "mentions": "2",
+      "upvotes": "7",
+      "rank_24h_ago": "76",
+      "mentions_24h_ago": "4"
+    },
+    {
+      "rank": 86,
+      "ticker": "ICP.X",
+      "name": "Internet Computer",
+      "mentions": "2",
+      "upvotes": "12",
+      "rank_24h_ago": "454",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 87,
+      "ticker": "ZIL.X",
+      "name": "Zilliqa",
+      "mentions": "1",
+      "upvotes": "3",
+      "rank_24h_ago": "0",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 88,
+      "ticker": "EC.X",
+      "name": "Echoin",
+      "mentions": "1",
+      "upvotes": "1",
+      "rank_24h_ago": "103",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 89,
+      "ticker": "BOOM.X",
+      "name": "BOOM",
+      "mentions": "1",
+      "upvotes": "3",
+      "rank_24h_ago": "104",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 90,
+      "ticker": "ICX.X",
+      "name": "ICON",
+      "mentions": "1",
+      "upvotes": "3",
+      "rank_24h_ago": "105",
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 91,
+      "ticker": "CVC.X",
+      "name": "Civic",
+      "mentions": "1",
+      "upvotes": "2",
+      "rank_24h_ago": "80",
+      "mentions_24h_ago": "2"
+    },
+    {
+      "rank": 92,
+      "ticker": "ZT.X",
+      "name": "ZBG Token",
+      "mentions": "1",
+      "upvotes": "2",
+      "rank_24h_ago": "106",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 93,
+      "ticker": "NAT.X",
+      "name": "Natmin Pure Escrow",
+      "mentions": "1",
+      "upvotes": "10",
+      "rank_24h_ago": "107",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 94,
+      "ticker": "TX.X",
+      "name": "TransferCoin",
+      "mentions": "1",
+      "upvotes": "1",
+      "rank_24h_ago": "63",
+      "mentions_24h_ago": "3"
+    },
+    {
+      "rank": 95,
+      "ticker": "FMA.X",
+      "name": "FLAMA",
+      "mentions": "1",
+      "upvotes": "1",
+      "rank_24h_ago": "108",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 96,
+      "ticker": "GALA.X",
+      "name": "Gala",
+      "mentions": "1",
+      "upvotes": "2",
+      "rank_24h_ago": "64",
+      "mentions_24h_ago": "3"
+    },
+    {
+      "rank": 97,
+      "ticker": "SYS.X",
+      "name": "Syscoin",
+      "mentions": "1",
+      "upvotes": "1",
+      "rank_24h_ago": "109",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 98,
+      "ticker": "DIA.X",
+      "name": "DIA",
+      "mentions": "1",
+      "upvotes": "1",
+      "rank_24h_ago": "110",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 99,
+      "ticker": "ACE.X",
+      "name": "ACE (TokenStars)",
+      "mentions": "1",
+      "upvotes": "1",
+      "rank_24h_ago": "112",
+      "mentions_24h_ago": "1"
+    },
+    {
+      "rank": 100,
+      "ticker": "FDR.X",
+      "name": "French Digital Reserve",
+      "mentions": "1",
+      "upvotes": "1",
+      "rank_24h_ago": "50",
+      "mentions_24h_ago": "5"
+    }
+  ]
+}

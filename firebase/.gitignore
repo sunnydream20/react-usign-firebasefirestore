@@ -1,0 +1,7 @@
+# ignore build folder
+/build
+/public
+
+# generated temp hosting files
+.firebase/*
+*.log

@@ -1,0 +1,53 @@
+.stock-line-chart {
+	color: white;
+}
+
+
+
+.line-charts-table-container {
+	width: calc(100% + 11.5px);
+	margin-top: 10px;
+	overflow-y: scroll;
+	max-height: 490px;
+	overflow-x: hidden;
+}
+
+td {
+	overflow: visible;
+}
+
+.recharts-tooltip-wrapper {
+	background-color: transparent;
+	position: relative;
+	z-index: 999;
+	color: black;
+	padding: 5px;
+	width: 118px;
+}
+
+.custom-tooltip {
+	background-color: white;
+	font-size: 90%;
+	width: 90px;
+}
+
+
+
+.stock-line-chart td {
+	overflow: visible;
+	vertical-align: top;
+
+}
+
+.stock-line-chart td>* {
+	/* position: relative;
+    bottom: 5px; */
+	max-height: 50px;
+	overflow: hidden;
+}
+
+.stock-name {
+	width: 90px;
+	overflow-x: hidden;
+	white-space: nowrap;
+}

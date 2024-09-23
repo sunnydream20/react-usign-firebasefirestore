@@ -1,0 +1,136 @@
+const dummyStockData = [
+  {
+    stock: 'AAPL',
+    name: 'Apple Inc',
+    data: [
+      { price: 150.23, date: '2020-01-01' },
+      { price: 172.67, date: '2022-12-22' },
+      { price: 198.45, date: '2023-06-03' },
+      { price: 155.12, date: '2023-10-04' },
+      { price: 190.76, date: '2023-12-05' },
+      { price: 162.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'GOOGL',
+    name: 'Alphabet Inc',
+    data: [
+      { price: 1200.56, date: '2020-02-01' },
+      { price: 1450.89, date: '2022-11-15' },
+      { price: 1587.32, date: '2023-07-12' },
+      { price: 1520.45, date: '2023-11-22' },
+      { price: 1650.78, date: '2023-12-01' },
+      { price: 1602.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'MSFT',
+    name: 'Microsoft Corporation',
+    data: [
+      { price: 180.34, date: '2020-03-15' },
+      { price: 210.67, date: '2022-10-18' },
+      { price: 225.45, date: '2023-05-01' },
+      { price: 195.12, date: '2023-09-14' },
+      { price: 215.76, date: '2023-12-05' },
+      { price: 202.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'AMZN',
+    name: 'Amazon.com Inc',
+    data: [
+      { price: 1900.78, date: '2020-04-05' },
+      { price: 2100.45, date: '2022-09-22' },
+      { price: 2405.67, date: '2023-04-15' },
+      { price: 2150.34, date: '2023-08-28' },
+      { price: 2300.89, date: '2023-12-01' },
+      { price: 2255.67, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'TSLA',
+    name: 'Tesla Inc',
+    data: [
+      { price: 500.34, date: '2020-06-10' },
+      { price: 650.89, date: '2022-08-02' },
+      { price: 720.56, date: '2023-03-25' },
+      { price: 680.23, date: '2023-07-19' },
+      { price: 710.45, date: '2023-12-01' },
+      { price: 695.12, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'FB',
+    name: 'Meta Platforms Inc',
+    data: [
+      { price: 180.56, date: '2020-08-15' },
+      { price: 220.89, date: '2022-07-12' },
+      { price: 245.32, date: '2023-02-08' },
+      { price: 230.45, date: '2023-06-18' },
+      { price: 255.78, date: '2023-12-01' },
+      { price: 240.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'NVDA',
+    name: 'NVIDIA Corporation',
+    data: [
+      { price: 250.23, date: '2020-10-02' },
+      { price: 300.67, date: '2022-05-25' },
+      { price: 320.45, date: '2023-01-14' },
+      { price: 280.12, date: '2023-05-27' },
+      { price: 310.76, date: '2023-12-05' },
+      { price: 295.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'NFLX',
+    name: 'Netflix Inc',
+    data: [
+      { price: 350.89, date: '2020-12-08' },
+      { price: 400.45, date: '2022-04-19' },
+      { price: 430.67, date: '2023-01-03' },
+      { price: 410.23, date: '2023-05-08' },
+      { price: 440.78, date: '2023-12-01' },
+      { price: 425.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'PYPL',
+    name: 'PayPal Holdings Inc',
+    data: [
+      { price: 110.56, date: '2021-01-15' },
+      { price: 130.89, date: '2022-03-22' },
+      { price: 150.32, date: '2023-01-18' },
+      { price: 135.45, date: '2023-05-29' },
+      { price: 155.78, date: '2023-12-01' },
+      { price: 142.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'INTC',
+    name: 'Intel Corporation',
+    data: [
+      { price: 50.23, date: '2021-05-07' },
+      { price: 55.67, date: '2022-02-12' },
+      { price: 60.45, date: '2023-01-28' },
+      { price: 58.12, date: '2023-06-11' },
+      { price: 62.76, date: '2023-12-05' },
+      { price: 59.34, date: '2023-12-06' },
+    ],
+  },
+  {
+    stock: 'AMD',
+    name: 'Advanced Micro Devices Inc',
+    data: [
+      { price: 80.34, date: '2021-09-20' },
+      { price: 90.89, date: '2022-01-08' },
+      { price: 100.56, date: '2023-01-02' },
+      { price: 95.23, date: '2023-05-15' },
+      { price: 105.45, date: '2023-12-01' },
+      { price: 102.34, date: '2023-12-06' },
+    ],
+  },
+];
+
+export default dummyStockData;
